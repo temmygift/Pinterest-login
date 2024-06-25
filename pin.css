@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: o;
+    box-sizing: border-box;
+    background-color: blue;
+}
+.pin{
+    width: 500px;
+    height: 700px;
+    border: 1px solid white;
+    margin-left: 450px;
+    margin-top: 60px;
+    border-radius: 30px;
+    background-color:white ;
+    
+
+}
+img{
+    width: 50px;
+    height: 50px;
+    margin-left: 220px;
+    margin-top: 20px; background-color:white ;
+}
+.sub-container{
+    height: 400px;
+    width: 300px;
+    /* border: 1px solid black; */
+    margin-left: 120px;
+    background-color:white ;
+}
+input{
+    height: 45px;
+    width: 250px;
+    border: 2px solid rgb(219, 211, 211);
+    margin-top: -100px;
+    border-radius: 10px;
+    padding: 15px;
+    outline: none;
+}
+input:hover{
+    border: 1px solid black;
+}
+input:focus{
+    border: 5px solid rgb(145, 168, 211);
+}
+a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    margin-top: 10px;
+}
+a:hover{
+    text-decoration: underline;
+}
+button{
+    width: 250px;
+    height: 40px;
+    border-radius: 15px;
+    color: white;
+    background-color: rgb(204, 18, 18);
+    border: none;
+    outline: none;
+}
+button:hover{
+    border: 5px solid rgb(20, 86, 230);
+
+}
+.uuu{
+    margin-left: 35%;
+}
+.log{
+    background-color: blue;
+}
+.log:hover{
+    background-color: blue;
+}
+.a{
+    width: 20px;
+    height: 20px;
+    margin-left:30px;
+    margin-left:-80%;
+    background-color: blue;
+}
+.google{
+    background-color: rgb(199, 194, 194);
+    color: black;
+    font-size:15px;
+
+}
+.text{
+    background-color: rgb(199, 194, 194);
+    text-decoration: none;
+    position: sticky;
+}
+h3{
+    background-color: white;
+
+}
+a{
+    background-color: white;
+    text-decoration: none;
+}
